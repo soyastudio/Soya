@@ -1,0 +1,16 @@
+[
+  {
+    "path": "/hello",
+    "method": "GET",
+    "action": "",
+    "attributes": [
+      {
+        "name": "",
+        "value": ""
+      }
+    ],
+    "request": {
+
+    }
+  }
+]
